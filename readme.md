@@ -37,8 +37,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/dannavall/dannavall/output/snake.svg" alt="Snake animation" />
-
-###
