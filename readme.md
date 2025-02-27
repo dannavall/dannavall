@@ -13,9 +13,10 @@
   <a href="https://wa.link/olj1ds" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+  <a href="https://tiktok.com/@__valentinaaa22" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="35" alt="tik tok logo"  />
+  </a>
 </div>
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@__valentinaaa22) 
 
 ###
 
